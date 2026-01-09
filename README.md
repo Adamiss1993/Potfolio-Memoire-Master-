@@ -16,5 +16,7 @@ connectivité écologique entre les habitats. Enfin, les pressions actuelles et 
 anticiper les risques de fragmentation. Les résultats montrent un fort potentiel écologique dans 
 ces territoires encore peu étudiés, soulignant l’importance de développer des stratégies 
 locales de conservation. 
-Mots-clés : Vaucluse, Atlas de la Biodiversité Communale (ABC), MaxEnt, R, biodiversité, 
+
+# Mots-clés 
+Vaucluse, Atlas de la Biodiversité Communale (ABC), MaxEnt, R, biodiversité, 
 SIG, modélisation, espèces sensibles, aire de répartition, dispersion, connectivité écologique.  
